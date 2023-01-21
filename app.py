@@ -1,5 +1,4 @@
 from datetime import datetime
-import os
 #from requests import get
 #from json import dumps
 import requests
